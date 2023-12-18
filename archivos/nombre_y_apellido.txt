@@ -1,0 +1,13 @@
+nombres y apellidos: 
+nombre: leonardo 
+ apellido: sombra 
+----------------
+nombre: lucas 
+ apellido: vargas 
+----------------
+nombre: michael 
+ apellido: huaman 
+----------------
+nombre: ignacio 
+ apellido: herrera 
+----------------
